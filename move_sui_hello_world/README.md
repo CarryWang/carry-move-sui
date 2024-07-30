@@ -1,0 +1,24 @@
+## 模块部署信息
+
+Transaction Digest: `ADwVATwH8T1HbQzYMQUPnGfQM12AXC2TSh2kEZZ1PD5`
+
+PackageID: `0xb5680477c50024f910512337acfd5a337c17628f7a9ae9eadb6cd5946d24e4ec`
+
+Sender: `0x5bdcb0dd355f072607a5643b72197ec4409ab053856165d4b32b166a6cdcd6cb`
+
+ObjectID: `0x0433a51bc34f5a0248166c319be76e9cd681ba509eea36d671944d0bbcfa2e10`
+
+---
+
+### v2
+
+Transaction Digest: `8tATex21mTCHAN2kTehwRTvtEWVLgEQ1vzsWAe7rXxaB`
+
+PackageID: `0x712d7b9473697f35d6036e7edde35d2ed5149f9bddfc84896c25d3a2c80ff6db`
+
+Sender: `0x5bdcb0dd355f072607a5643b72197ec4409ab053856165d4b32b166a6cdcd6cb`
+
+ObjectID: `0x59ad8ffbd9f1fd034e2e3bca8de2027f77d073802344359776592ebaf663e778`
+
+
+
